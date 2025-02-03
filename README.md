@@ -31,4 +31,4 @@
 
 ### CPE 322:
 
-[My Team Project Site]https://sites.google.com/stevens.edu/designviteamproject/home 
+[My Team Project Site:] https://sites.google.com/stevens.edu/designviteamproject/home 
