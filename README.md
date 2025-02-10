@@ -29,6 +29,8 @@
 
 ![YankeeStadium](https://github.com/user-attachments/assets/2516fd93-3879-4a01-bb60-733d910a2fe4)
 
-### CPE 322:
+## CPE 322:
+
+### Assignments are on the team project site:
 
 [My Team Project Site:] https://sites.google.com/stevens.edu/designviteamproject/home 
