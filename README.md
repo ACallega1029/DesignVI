@@ -33,4 +33,4 @@
 
 ### Assignments are on the team project site:
 
-[My Team Project Site:] https://sites.google.com/stevens.edu/designviteamproject/home 
+[My Team Project Site](https://sites.google.com/stevens.edu/designviteamproject/home)
