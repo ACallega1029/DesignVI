@@ -1,5 +1,5 @@
-#CPE322
-##Lab 1
-###Half Adder
+# CPE322
+## Lab 1
+### Half Adder
 
-./
+
