@@ -7,3 +7,4 @@
 
 ### D Flip-Flop
 
+![image](https://github.com/user-attachments/assets/9a76fec1-e326-4f9c-8fcf-9af8f4f00923)
