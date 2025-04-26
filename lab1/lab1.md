@@ -2,4 +2,4 @@
 ## Lab 1 GTK Wave
 ### Half Adder
 
-![My Half Adder Simulation]("C:\Users\antca\OneDrive\Pictures\Screenshots\Screenshot 2025-04-26 125431.png")
+![Image](https://github.com/user-attachments/assets/5fc7e147-8770-437f-8997-b1f47ae8856d)
