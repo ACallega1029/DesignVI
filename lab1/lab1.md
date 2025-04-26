@@ -1,5 +1,5 @@
 # CPE322
-## Lab 1
+## Lab 1 GTK Wave
 ### Half Adder
 
 
