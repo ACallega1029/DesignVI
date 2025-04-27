@@ -8,5 +8,4 @@ Subcpu:
 ![image](https://github.com/user-attachments/assets/c6d22f3a-40e4-454f-8d20-e261471dbfac)
 
 Pubcpu:
-![image](https://github.com/user-attachments/assets/c0a6bb71-caa3-4bde-8d04-922e9f04d789)
-
+![image](https://github.com/user-attachments/assets/325b3393-d731-4978-a7fb-33494b5e38bb)
