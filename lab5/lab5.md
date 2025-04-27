@@ -5,7 +5,8 @@
 Two terminal outputs:
 
 Subcpu:
-![image](https://github.com/user-attachments/assets/318e1d9f-c0e3-48d4-9af6-a779a7403d5b)
+![image](https://github.com/user-attachments/assets/c6d22f3a-40e4-454f-8d20-e261471dbfac)
 
 Pubcpu:
-![image](https://github.com/user-attachments/assets/c08123d2-a573-419f-bcd0-51b8db568ea6)
+![image](https://github.com/user-attachments/assets/c0a6bb71-caa3-4bde-8d04-922e9f04d789)
+
