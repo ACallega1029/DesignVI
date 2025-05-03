@@ -11,12 +11,5 @@ Installation of Django:
 ![Image](https://github.com/user-attachments/assets/1634f488-e968-47bd-a41f-b0acb3bcac2c)
 ![image](https://github.com/user-attachments/assets/ac3c0c39-a388-4caf-9478-cc3665c54599)
 
-Weather station output:
-![image](https://github.com/user-attachments/assets/fdcc0763-8793-45be-86c4-0650093d25dc)
-
-
-My CPU output:
-![image](https://github.com/user-attachments/assets/cbaf1bbf-a856-49fc-94b3-318a2e7dbd8e)
-
 Hello world output:
 ![Image](https://github.com/user-attachments/assets/fc3c2af6-9858-446e-83ee-6e27cd1b5c4d)
